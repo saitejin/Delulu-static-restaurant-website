@@ -39,7 +39,7 @@ Delulu is a static restaurant website designed to showcase the restaurant's menu
 |---|---|
 | HTML5 | Page structure |
 | CSS3 | Styling and animations |
-| Bootstrap Icons | Icons throughout the site |
+
 
 ---
 
